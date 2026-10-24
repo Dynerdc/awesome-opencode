@@ -1,0 +1,5 @@
+yaml
+name: opencode-acp-v2
+repo: https://github.com/Dynerdc/opencode-acp-v2-diphonecore
+tagline: Poda el contexto automáticamente en OpenCode V2 para ahorrar tokens.
+description: Port del plugin ACP para la API de OpenCode V2. Reduce el consumo de tokens y evita límites de API reemplazando salidas de herramientas obsoletas por stubs. Incluye 8 estrategias de optimización, protección de archivos sensibles y herramienta manual context_prune, sin dependencias externas
